@@ -1,7 +1,7 @@
 # moody
+
 This project detects the mood of of person according to his/her facial expressions and different things are going to be utilised using facial expressions can be benificial in events like public gathering as well as mental health issues.
 
-###################################################################
 
 Contents:
 
